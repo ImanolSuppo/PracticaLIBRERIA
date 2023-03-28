@@ -1,0 +1,12 @@
+C:\Users\imasu\source\repos\PracticaLIBRERIA\PracticaLIBRERIA\obj\Debug\PracticaLIBRERIA.csproj.AssemblyReference.cache
+C:\Users\imasu\source\repos\PracticaLIBRERIA\PracticaLIBRERIA\obj\Debug\PracticaLIBRERIA.csproj.SuggestedBindingRedirects.cache
+C:\Users\imasu\source\repos\PracticaLIBRERIA\PracticaLIBRERIA\obj\Debug\PracticaLIBRERIA.FrmConsultarArticulo.resources
+C:\Users\imasu\source\repos\PracticaLIBRERIA\PracticaLIBRERIA\obj\Debug\PracticaLIBRERIA.Presentacion.FrmFactura.resources
+C:\Users\imasu\source\repos\PracticaLIBRERIA\PracticaLIBRERIA\obj\Debug\PracticaLIBRERIA.Properties.Resources.resources
+C:\Users\imasu\source\repos\PracticaLIBRERIA\PracticaLIBRERIA\obj\Debug\PracticaLIBRERIA.csproj.GenerateResource.cache
+C:\Users\imasu\source\repos\PracticaLIBRERIA\PracticaLIBRERIA\obj\Debug\PracticaLIBRERIA.csproj.CoreCompileInputs.cache
+C:\Users\imasu\source\repos\PracticaLIBRERIA\PracticaLIBRERIA\bin\Debug\PracticaLIBRERIA.exe.config
+C:\Users\imasu\source\repos\PracticaLIBRERIA\PracticaLIBRERIA\bin\Debug\PracticaLIBRERIA.exe
+C:\Users\imasu\source\repos\PracticaLIBRERIA\PracticaLIBRERIA\bin\Debug\PracticaLIBRERIA.pdb
+C:\Users\imasu\source\repos\PracticaLIBRERIA\PracticaLIBRERIA\obj\Debug\PracticaLIBRERIA.exe
+C:\Users\imasu\source\repos\PracticaLIBRERIA\PracticaLIBRERIA\obj\Debug\PracticaLIBRERIA.pdb
